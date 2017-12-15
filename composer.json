@@ -1,0 +1,17 @@
+{
+    "name": "origindesign/createsend",
+    "description": "Create Send - Custom Drupal 8 Module for integration with Campaign Monitor/Create Send",
+    "keywords": ["drupal", "composer", "module"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Lindsay Wilson",
+            "email": "lwilson@origindesign.ca"
+        }
+    ],
+    "type": "drupal-module",
+    "require": {
+		"php": ">=5.6"
+    },
+	"minimum-stability": "dev"
+}
